@@ -1,0 +1,15 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "FWMPfJtpwiMBj9Ni0eMCVQYPV+M=",
+			"path": "github.com/aws/aws-sdk-go",
+			"revision": "d0fbf73eb83b04efb11da581c46316ad853eaa15",
+			"revisionTime": "2017-02-10T00:02:15Z",
+			"version": "=v1.6.20",
+			"versionExact": "v1.6.20"
+		}
+	],
+	"rootPath": "github.com/imyousuf/aws-sdk-go-sample"
+}
